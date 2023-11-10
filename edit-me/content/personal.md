@@ -1,9 +1,9 @@
 ---
-givenName: Stacy
-familyName: Fakename
-title: Official Job Title
-location: Austin, TX
-twitterUsername: stacy_fakename
+givenName: Omar
+familyName: Shams
+title: Software Developer
+location: Halifax, NS
+twitterUsername: N/A
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Neque viverra [justo nec ultrices](#). Urna nunc id cursus metus aliquam eleifend mi in nulla. Proin sagittis nisl rhoncus mattis rhoncus urna neque viverra.
+Experienced software engineer skilled in full-stack web development with expertise in Java, JavaScript, React, Internet Protocols, Docker Kubernetes and databases. Strong problem-solving abilities and a track record of delivering high-quality code. Seeking a challenging software engineering role.
