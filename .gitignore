@@ -52,4 +52,4 @@ tsconfig.tsbuildinfo
 # Contentlayer
 .contentlayer
 
-**/edit-me/content/privateFields/00-WARNING.md
+**/edit-me/content/privateFields/*
