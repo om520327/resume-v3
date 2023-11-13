@@ -120,6 +120,16 @@ export const PrivateField = defineDocumentType(() => ({
       description: 'A label to describe the private field',
       required: true,
     },
+    email: {
+      type: 'string',
+      description: 'your email',
+      required: true,
+    },
+    phone: {
+      type: 'string',
+      description: 'your phone number',
+      required: true,
+    },
   },
 }));
 

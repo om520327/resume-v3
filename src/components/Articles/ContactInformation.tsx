@@ -19,10 +19,11 @@ export const ContactInformation: React.FC<ContactInformationProps> = ({
           <strong>Location:</strong> {personal.location}
         </li>
 
-        {/* private access required */}
         {privateInformation?.map((privateField) => (
           <li className="mt-3" key={privateField.label}>
-            <strong>{privateField.label}</strong>{' '}
+            <strong>Email:</strong> {privateField.email}
+            <br />
+            <strong>Phone Number:</strong> {privateField.phone}
             <div dangerouslySetInnerHTML={{ __html: privateField.body.html }} />
           </li>
         ))}

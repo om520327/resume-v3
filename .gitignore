@@ -51,3 +51,5 @@ tsconfig.tsbuildinfo
 
 # Contentlayer
 .contentlayer
+
+**/edit-me/content/privateFields
