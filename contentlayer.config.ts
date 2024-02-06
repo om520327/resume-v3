@@ -108,6 +108,11 @@ export const AdditionalInfo = defineDocumentType(() => ({
       description: 'The name of the additional info section',
       required: true,
     },
+    project: {
+      type: 'string',
+      description: 'The name of the additional info section',
+      required: false,
+    },
   },
 }));
 

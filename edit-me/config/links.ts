@@ -13,24 +13,10 @@ export const links: CMSLink[] = [
     icon: faGithub,
     title: 'GitHub',
   },
-  {
-    href: 'https://www.instagram.com',
-    icon: faInstagram,
-    title: 'Instagram',
-  },
+
   {
     href: 'https://www.linkedin.com/in/omar-shams-44859b168/',
     icon: faLinkedin,
     title: 'LinkedIn',
-  },
-  {
-    href: 'https://www.npmjs.com',
-    icon: faNpm,
-    title: 'NPM',
-  },
-  {
-    href: 'https://twitter.com',
-    icon: faTwitter,
-    title: 'Twitter',
   },
 ];
